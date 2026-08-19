@@ -1,5 +1,9 @@
 # brew-autoupgrade
 
+this branch - hasn't been updated, but features I want to add:
+- check if lid closed (not just sleep) in case I accidentally leave caffeinate running
+- "update all but selected" list to designate some packages as version-locked. exclusive rather than the current inclusive option
+
 A small Homebrew command that keeps your packages upgraded in the background, behaves itself on a laptop, and gets out of the way.
 
 ```bash
